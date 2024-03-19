@@ -1,33 +1,64 @@
 {
-  "projects": [
+  "plants": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "Mangolia",
+      "price": 96.4,
+      "image": "https://picsum.photos/200/200?random=0"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "Daisy",
+      "price": 34.68,
+      "image": "https://picsum.photos/200/200?random=1"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "Daisy",
+      "price": 66.14,
+      "image": "https://picsum.photos/200/200?random=2"
+    },
+    {
+      "id": 4,
+      "name": "Daisy",
+      "price": 41.98,
+      "image": "https://picsum.photos/200/200?random=3"
+    },
+    {
+      "id": 5,
+      "name": "Tulip",
+      "price": 28.57,
+      "image": "https://picsum.photos/200/200?random=4"
+    },
+    {
+      "id": 6,
+      "name": "Bonsai",
+      "price": 86.08,
+      "image": "https://picsum.photos/200/200?random=5"
+    },
+    {
+      "id": 7,
+      "name": "Rose",
+      "price": 77.48,
+      "image": "https://picsum.photos/200/200?random=6"
+    },
+    {
+      "id": 8,
+      "name": "Cactus",
+      "price": 48.43,
+      "image": "https://picsum.photos/200/200?random=7"
+    },
+    {
+      "id": 9,
+      "name": "Daisy",
+      "price": 51.98,
+      "image": "https://picsum.photos/200/200?random=8"
+    },
+    {
+      "id": 10,
+      "name": "Tulip",
+      "price": 40.63,
+      "image": "https://picsum.photos/200/200?random=9"
     }
   ]
 }
