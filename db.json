@@ -1,6 +1,5 @@
 {
   "plants": [
-   
     {
       "id": "xljtGZ2-P3Y",
       "name": "green leaf plants",
@@ -60,6 +59,13 @@
       "name": "shallow photography of leaves",
       "image": "https://images.unsplash.com/photo-1503149779833-1de50ebe5f8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODA2OTl8MHwxfHNlYXJjaHwxMHx8cGxhbnRzfGVufDB8fHx8MTcxMDg4ODgzM3ww&ixlib=rb-4.0.3&q=80&w=400",
       "price": 44
+    },
+    {
+      "name": "Mohamed",
+      "price": "90",
+      "description": "huidnjk",
+      "image": "",
+      "id": "3EFLqLo"
     }
   ]
 }
