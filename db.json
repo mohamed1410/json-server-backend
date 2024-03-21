@@ -53,6 +53,16 @@
       "name": "green and white leaf plant",
       "image": "https://images.unsplash.com/photo-1543459176-4426b37223ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODA2OTl8MHwxfHNlYXJjaHw5fHxwbGFudHN8ZW58MHx8fHwxNzEwODg4ODMzfDA&ixlib=rb-4.0.3&q=80&w=400",
       "price": 70
+    },
+    {
+      "id": "2aa2",
+      "name": "Plam",
+      "price": "46",
+      "description": "Palm",
+      "image": "https://media.istockphoto.com/id/1047404378/de/foto/areca-palme-in-topfpflanzen-gepflanzt.jpg?s=612x612&w=0&k=20&c=eqjJrAnxSg91jy88uJUl3jvhgLsLm9kRytYmGQXStLY="
     }
+  ],
+  "orders": [
+  
   ]
 }
