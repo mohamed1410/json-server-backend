@@ -22,7 +22,7 @@
       "id": "oRWRlTgBrPo",
       "name": "green rubber fig plant",
       "image": "https://images.unsplash.com/photo-1477554193778-9562c28588c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODA2OTl8MHwxfHNlYXJjaHw0fHxwbGFudHN8ZW58MHx8fHwxNzEwODg4ODMzfDA&ixlib=rb-4.0.3&q=80&w=400",
-      "price": 28
+      "price": "200"
     },
     {
       "id": "bmM_IdLd1SA",
@@ -53,19 +53,6 @@
       "name": "green and white leaf plant",
       "image": "https://images.unsplash.com/photo-1543459176-4426b37223ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODA2OTl8MHwxfHNlYXJjaHw5fHxwbGFudHN8ZW58MHx8fHwxNzEwODg4ODMzfDA&ixlib=rb-4.0.3&q=80&w=400",
       "price": 70
-    },
-    {
-      "id": "W5XTTLpk1-I",
-      "name": "shallow photography of leaves",
-      "image": "https://images.unsplash.com/photo-1503149779833-1de50ebe5f8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODA2OTl8MHwxfHNlYXJjaHwxMHx8cGxhbnRzfGVufDB8fHx8MTcxMDg4ODgzM3ww&ixlib=rb-4.0.3&q=80&w=400",
-      "price": 44
-    },
-    {
-      "name": "Mohamed",
-      "price": "90",
-      "description": "huidnjk",
-      "image": "",
-      "id": "3EFLqLo"
     }
   ]
 }
